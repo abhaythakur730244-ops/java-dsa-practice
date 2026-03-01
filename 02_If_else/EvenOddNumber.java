@@ -7,10 +7,10 @@ public class EvenOddNumber {
         int n = sc.nextInt();
         if (n % 2 == 0) {
             System.out.println("Even number  ");
-            System.out.println("Abhay Weds Harsh");
+            System.out.println("Abhay  Harsh");
         } else {
             System.out.println("Odd number  ");
-            System.out.println("Arjun Weds Rudra ");
+            System.out.println("Arjun  Rudra ");
         }
         sc.close();
     }
