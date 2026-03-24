@@ -6,9 +6,9 @@ public class oddOrEven {
         int number = scanner.nextInt();
 
         if (number % 2 == 0) {
-            System.out.println(number + " is an even number.");
+            System.out.println(number + " is an even no.");
         } else {
-            System.out.println(number + " is an odd number.");
+            System.out.println(number + " is an odd no.");
         }
 
         scanner.close();
